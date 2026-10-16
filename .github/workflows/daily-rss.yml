@@ -1,0 +1,61 @@
+name: Daily RSS Feed Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Generate RSS Feed
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gpt-4o-mini' }}
+        RSS_TITLE: ${{ secrets.RSS_TITLE || 'AI 晨報' }}
+        RSS_ITEMS: ${{ secrets.RSS_ITEMS || '5' }}
+      run: |
+        python rss_generator.py --output feed.xml
+
+    - name: Validate XML
+      run: |
+        python3 << 'PYEOF'
+        import xml.etree.ElementTree as ET
+        tree = ET.parse('feed.xml')
+        root = tree.getroot()
+        channel = root.find('channel')
+        items = channel.findall('item')
+        print(f'RSS feed valid: {len(items)} items')
+        PYEOF
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        keep_files: true
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: rss-feed
+        path: feed.xml
+        retention-days: 7

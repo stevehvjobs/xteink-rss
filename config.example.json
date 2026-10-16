@@ -1,0 +1,9 @@
+{
+  "title": "AI 晨報",
+  "description": "每日 AI 生成嘅精選資訊摘要",
+  "link": "https://<your-username>.github.io/xteink-rss/",
+  "language": "zh-hant",
+  "items": 5,
+  "category": "AI 摘要",
+  "author": "AI Assistant"
+}

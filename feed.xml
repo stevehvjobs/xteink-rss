@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI 晨報</title>
+    <description>每日 AI 生成嘅精選資訊摘要</description>
+    <link>https://your-username.github.io/xteink-rss/</link>
+    <language>zh-hant</language>
+    <lastBuildDate>Fri, 16 Oct 2026 16:25:54 GMT</lastBuildDate>
+    <generator>AI RSS Generator v1.0</generator>
+    <atom:link href="https://your-username.github.io/xteink-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <category>AI 摘要</category>
+    <managingEditor>AI Assistant</managingEditor>
+    <item>
+      <title>每日精選項目 1</title>
+      <description>## 項目 1: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</description>
+      <pubDate>Fri, 16 Oct 2026 16:25:54 GMT</pubDate>
+      <guid>bb2e7563eadc6c1d5acdc07afe2ad3bd</guid>
+      <category>AI 摘要</category>
+      <author>AI Assistant</author>
+      <content:encoded>## 項目 1: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</content:encoded>
+    </item>
+
+    <item>
+      <title>每日精選項目 2</title>
+      <description>## 項目 2: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</description>
+      <pubDate>Fri, 16 Oct 2026 16:25:54 GMT</pubDate>
+      <guid>afcbb5e1f2370a92a18764930c0bc73d</guid>
+      <category>AI 摘要</category>
+      <author>AI Assistant</author>
+      <content:encoded>## 項目 2: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</content:encoded>
+    </item>
+
+    <item>
+      <title>每日精選項目 3</title>
+      <description>## 項目 3: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</description>
+      <pubDate>Fri, 16 Oct 2026 16:25:54 GMT</pubDate>
+      <guid>3068f3eb287f8556cdd724b69964705d</guid>
+      <category>AI 摘要</category>
+      <author>AI Assistant</author>
+      <content:encoded>## 項目 3: AI 生成內容
+
+呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。
+
+- 標題：每日精選
+- 日期：2026-10-16
+- 類別：AI 摘要
+
+請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。</content:encoded>
+    </item>
+  </channel>
+</rss>
