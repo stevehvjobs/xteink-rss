@@ -1,52 +1,52 @@
 [
   {
     "title": "每日精選項目 1",
-    "description": "## 項目 1: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
+    "description": "## 項目 1: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
     "link": "",
-    "pub_date": "Thu, 22 Oct 2026 00:16:17 GMT",
-    "guid": "8ba517a6ef52cfc0e34b9a19ca824b3e",
+    "pub_date": "Fri, 23 Oct 2026 00:19:13 GMT",
+    "guid": "02f42ed3183f10d2645e44ed6a39fe26",
     "category": "AI 摘要",
     "author": "AI Assistant",
-    "content": "## 項目 1: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
+    "content": "## 項目 1: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
   },
   {
     "title": "每日精選項目 2",
-    "description": "## 項目 2: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
+    "description": "## 項目 2: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
     "link": "",
-    "pub_date": "Thu, 22 Oct 2026 00:16:17 GMT",
-    "guid": "8fe962bc7358f236afbf97bb1e220aa2",
+    "pub_date": "Fri, 23 Oct 2026 00:19:13 GMT",
+    "guid": "0ba305a00dde4757e7e7550a1d295627",
     "category": "AI 摘要",
     "author": "AI Assistant",
-    "content": "## 項目 2: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
+    "content": "## 項目 2: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
   },
   {
     "title": "每日精選項目 3",
-    "description": "## 項目 3: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
+    "description": "## 項目 3: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
     "link": "",
-    "pub_date": "Thu, 22 Oct 2026 00:16:17 GMT",
-    "guid": "609d445cf0e1778a6ead79dfa7f0033b",
+    "pub_date": "Fri, 23 Oct 2026 00:19:13 GMT",
+    "guid": "a553658ad83b89239cfd17a7029bf5ec",
     "category": "AI 摘要",
     "author": "AI Assistant",
-    "content": "## 項目 3: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
+    "content": "## 項目 3: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
   },
   {
     "title": "每日精選項目 4",
-    "description": "## 項目 4: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
+    "description": "## 項目 4: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
     "link": "",
-    "pub_date": "Thu, 22 Oct 2026 00:16:17 GMT",
-    "guid": "8858a3692981c2635007d5877a5ad67b",
+    "pub_date": "Fri, 23 Oct 2026 00:19:13 GMT",
+    "guid": "6e7e0cf1ea82b17f5e2b657ad6e96b70",
     "category": "AI 摘要",
     "author": "AI Assistant",
-    "content": "## 項目 4: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
+    "content": "## 項目 4: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
   },
   {
     "title": "每日精選項目 5",
-    "description": "## 項目 5: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
+    "description": "## 項目 5: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。",
     "link": "",
-    "pub_date": "Thu, 22 Oct 2026 00:16:17 GMT",
-    "guid": "b117d8c470d0882a11577e9a6b4d4385",
+    "pub_date": "Fri, 23 Oct 2026 00:19:13 GMT",
+    "guid": "00daa84622747224f976bf10ef503080",
     "category": "AI 摘要",
     "author": "AI Assistant",
-    "content": "## 項目 5: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-22\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
+    "content": "## 項目 5: AI 生成內容\n\n呢個係樣本內容。當你設定好 AI API 之後，呢度會自動生成每日精選摘要。\n\n- 標題：每日精選\n- 日期：2026-10-23\n- 類別：AI 摘要\n\n請設定 OPENAI_API_KEY 環境變數嚟啟用 AI 生成功能。"
   }
 ]
